@@ -79,6 +79,6 @@ int main() {
         
         delete(pid);
 
-        sleep(7);
+        sleep(30);
     }
 }
